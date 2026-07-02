@@ -1,0 +1,17 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# The .xcodeproj is generated from project.yml by XcodeGen. It is checked in
+# for convenience (open-and-run), but can always be regenerated.
